@@ -5,3 +5,6 @@ HTML provides the structural foundation for web content, defining elements like 
 
 - Project 2
 On my second project, my main focus was understanding how APIs (Application Programming Interfaces) connect with JavaScript. In this case, the API functions as a communication bridge between data from the server and JavaScript scripts in the project.
+
+- Project 3
+Learning again basic javascript cuz im not use it smoothly. In here i learn function, DOM, script tag, variables, number, strings, console.log()
