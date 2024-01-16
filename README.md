@@ -8,3 +8,6 @@ On my second project, my main focus was understanding how APIs (Application Prog
 
 - Project 3
 Learning again basic javascript cuz im not use it smoothly. In here i learn function, DOM, script tag, variables, number, strings, console.log()
+
+-Project 4
+Learning arrays, object, booleans, if else statements, comparison operator, for loops, the math object and return statement 
