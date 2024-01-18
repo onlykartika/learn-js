@@ -11,16 +11,16 @@ function add(){
 
 function subtract(){
     let result = num1 - num2
-    sumEl.textContent = sumEl + result
+    sumEl.textContent = result
 }
 
 function divide(){
     let result = num1 / num2
-    sumEl.textContent = sumEl + result
+    sumEl.textContent = result
 }
 
 function multiply(){
     let result = num1 * num2
-    sumEl.textContent = sumEl + result
+    sumEl.textContent = result
 }
 
