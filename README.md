@@ -17,3 +17,6 @@ Create simple calculator using function and DOM
 
 - Day 6
 First create game rock, paper, scissor using function and log. Second is data on apples (a) and oranges (o). At this time, we make a classification of each fruit using for, if/else, also function.
+
+- Day 7
+Create exstension in chrome. The extension is saving a link in the Chrome tab. Recap study: const, addEventListener(), innerHTML, inputvalue, function parameter, template strings, localStorage, the JSON object, and object in arrays
