@@ -14,3 +14,6 @@ Learning arrays, object, booleans, if else statements, comparison operator, for 
 
 - Day 5
 Create simple calculator using function and DOM
+
+- Day 6
+First create game rock, paper, scissor using function and log. Second is data on apples (a) and oranges (o). At this time, we make a classification of each fruit using for, if/else, also function.
