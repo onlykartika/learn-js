@@ -20,3 +20,6 @@ First create game rock, paper, scissor using function and log. Second is data on
 
 - Day 7
 Create exstension in chrome. The extension is saving a link in the Chrome tab. Recap study: const, addEventListener(), innerHTML, inputvalue, function parameter, template strings, localStorage, the JSON object, and object in arrays
+
+- Day 8
+Create search character in Naruto shippuden universe using API in https://narutodb.xyz/. I'm in here learning git fetch and how to search/using data in API
